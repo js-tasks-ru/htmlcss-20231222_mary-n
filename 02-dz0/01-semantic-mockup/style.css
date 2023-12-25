@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    color: white;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header, nav, footer {
+    text-align: center; 
+}
+
+header {
+    background-color: #849974;
+    padding: 10px 0 0 0;
+}
+
+nav {
+    background-color: #E3BAB3;
+    padding: 10px;
+}
+
+a {
+    padding: 5px;
+    color: #36384C;
+}
+
+main {
+    background-color: #613A43;
+    padding: 10px;
+}
+
+article {
+    background-color: #E9DCCD;
+    margin: 15px;
+    color: #36384C;
+    padding: 10px;
+}
+
+h2 {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+ul, ol {
+    padding-bottom: 15px;
+}
+
+li {
+    margin-left: 15px;
+    
+}
+
+footer {
+    background-color: #36384C;
+    padding: 10px 0 10px 0;
+}
